@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Challenge4</string>
+    <string name="title_activity_add_remainder_view">AddRemainderView</string>
+    <string name="nameLabol">Name</string>
+    <string name="description">Description</string>
+    <string name="title_activity_remainder_info">RemainderInfoActivity</string>
+</resources>
